@@ -1,6 +1,6 @@
 #Iwoca
 
-
+------------------------------------
 ###The web page it's built in:
 
 - jQuery
@@ -11,14 +11,14 @@
 
 - Html 5
 
-
+-------------------------------------
 ###References:
 
 - [Iwoca Logo](https://www.iwoca.co.uk/)
 
 - [Fonts](https://fonts.google.com/specimen/Open+Sans)
 
-- [Carousel-images]( https://unsplash.com/)
+- [Carousel-images](https://unsplash.com/)
 
 - [Icons](http://fontawesome.io/icons/)
 
