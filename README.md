@@ -12,12 +12,11 @@
 - Html 5
 
 
-
 ###References:
 
-- [Iwoca Logo] (https://www.iwoca.co.uk/)
+- [Iwoca Logo](https://www.iwoca.co.uk/)
 
-- [Fonts] (https://fonts.google.com/specimen/Open+Sans)
+- [Fonts](https://fonts.google.com/specimen/Open+Sans)
 
 - [Carousel-images]( https://unsplash.com/)
 
