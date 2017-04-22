@@ -1,7 +1,7 @@
-#Iwoca
+# Iwoca
 
 ------------------------------------
-###The web page it's built in:
+### The web page it's built in:
 
 - jQuery
 
@@ -12,7 +12,7 @@
 - Html 5
 
 -------------------------------------
-###References:
+### References:
 
 - [Iwoca Logo](https://www.iwoca.co.uk/)
 
